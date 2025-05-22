@@ -1,2 +1,1 @@
-# SQL1
-SQL sample for data cleansing
+# SQL sample for data cleansing
